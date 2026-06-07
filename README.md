@@ -1,8 +1,21 @@
 ### Hi there 👋
 
-I'm Paolo and I'm an iOS Engineer with more then 12+ years of experience.
+I'm Paolo, an iOS Engineer with more than 14 years of experience.
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pmusolino&theme=github_dark" alt="Paolo's GitHub profile summary" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=pmusolino&show_icons=true&count_private=true" alt="pmusolino" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmusolino&hide=html" alt="pmusolino" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pmusolino&theme=github_dark" alt="Paolo's GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pmusolino&theme=github_dark&utcOffset=2" alt="Paolo's productive time" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pmusolino&theme=github_dark" alt="Paolo's repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pmusolino&theme=github_dark" alt="Paolo's most committed languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pmusolino&theme=github-dark-blue&hide_border=true" alt="Paolo's GitHub streak" />
+</p>
